@@ -1,0 +1,8 @@
+---
+layout: default
+img: 3.jpg
+name: Mudit Choraria
+year: 2k16
+intro: I'm a passionate tech lover. My interests include blogging, machine learning and designing.
+modal-id: 11
+---

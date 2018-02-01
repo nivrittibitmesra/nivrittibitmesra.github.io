@@ -1,0 +1,8 @@
+---
+layout: default
+img: a.jpg
+name: Aayush Bhaskar
+year: 2k16
+intro: My areas of interests include Machine Learning, Signal Processing, Natural language processing and app development.
+modal-id: 12
+---

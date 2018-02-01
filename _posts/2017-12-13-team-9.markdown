@@ -1,0 +1,10 @@
+---
+layout: default
+img: pp.jpg
+name: Animesh Sharma
+year: 2k15
+intro: A data science and deep learning enthusiast.My areas of interest are NLP , data science , BI , computer vision.
+modal-id: 9
+---
+
+

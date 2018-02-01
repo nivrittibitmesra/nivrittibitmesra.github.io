@@ -1,0 +1,12 @@
+---
+layout: default
+img: r.jpeg
+name: Rashmi Sahu
+year: 2k16
+intro: My area of interests includes astronomy,robotics and AI,innovation in agricultural techniques,development in medical treatment and instruments.
+modal-id: 15
+
+
+---
+
+

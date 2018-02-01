@@ -1,0 +1,8 @@
+---
+layout: default
+img: 1.jpg
+name: Shivam Kumar
+year: 2k16
+intro: My areas of interest include Machine Learning and Computer Vision.
+modal-id: 10
+---

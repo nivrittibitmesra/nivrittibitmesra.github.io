@@ -1,0 +1,9 @@
+---
+layout: default
+img: 2.jpg
+name: Srivatsa Sinha
+year: 2k14
+intro: An enthusiast in Electronics and Computing.My area of interest lies in Deep Learning, Statistical Modelling and Artificial General Intelligence
+modal-id: 4
+designation: Team Lead A.I. at Nivritti
+---

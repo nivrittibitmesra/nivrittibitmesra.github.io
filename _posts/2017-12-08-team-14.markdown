@@ -1,0 +1,11 @@
+---
+layout: default
+img: ab.jpeg
+name: Abhinav Gupta
+year: 2k16
+intro: I am a UG second year Electronics and communication student at Birla Institute of Technology,Ranchi.
+modal-id: 14
+
+---
+
+

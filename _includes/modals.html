@@ -1,0 +1,37 @@
+<head>
+<meta name="viewport" content ="width=device-width initial-scale=1 user-scalable=yes" />
+</head>
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h3>{{ post.name }}</h3>
+                            <h3>{{ post.designation }}</h3>
+                            <hr class="star-primary">
+                            <img src="img/team/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.name }}" style="width:300px;height:300px" >
+                            <p>{{ post.intro }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Year:
+                                    <h5>{{ post.year }}</a>
+                                    </strong>
+                                </li>
+ 
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

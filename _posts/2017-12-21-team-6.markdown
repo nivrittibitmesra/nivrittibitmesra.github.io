@@ -1,0 +1,10 @@
+---
+layout: default
+img: 26.jpg
+name: Anil Gupta
+year: 2k14
+modal-id: 6
+intro: I am a UG Final year student at Birla Institute of Technology, Mesra.
+designation: Team Lead Management at Nivritti
+---
+

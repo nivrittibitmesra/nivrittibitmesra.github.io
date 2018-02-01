@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NIVRITTI</title>
+    <description>Nivritti, A.I. Research Group,BIT Mesra,Ranchi</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 09 Jan 2018 00:20:42 +0530</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2018 00:20:42 +0530</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Team 6</title>
+        <description>
+</description>
+        <pubDate>Thu, 21 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/21/team-6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/21/team-6.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 5</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/20/team-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20/team-5.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 4</title>
+        <description>
+</description>
+        <pubDate>Tue, 19 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/19/team-4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/19/team-4.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 1</title>
+        <description>
+</description>
+        <pubDate>Sat, 16 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/16/team-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/16/team-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 7</title>
+        <description>
+</description>
+        <pubDate>Fri, 15 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/15/team-7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/15/team-7.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 8</title>
+        <description>
+</description>
+        <pubDate>Thu, 14 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/14/team-8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/14/team-8.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 9</title>
+        <description>
+</description>
+        <pubDate>Wed, 13 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/13/team-9.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/13/team-9.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 10</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/12/team-10.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/12/team-10.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 11</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/11/team-11.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/11/team-11.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Team 12</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Dec 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2017/12/10/team-12.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/10/team-12.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

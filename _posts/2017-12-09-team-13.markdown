@@ -1,0 +1,8 @@
+---
+layout: default
+img: p.jpg
+name: Pooja Asati
+year: 2k16
+intro: My fields of interest include robotics and embedded systems .
+modal-id: 13
+---

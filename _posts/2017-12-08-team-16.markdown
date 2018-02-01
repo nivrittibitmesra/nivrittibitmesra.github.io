@@ -1,0 +1,11 @@
+---
+layout: default
+img: j.jpg
+name: Kumari Jyotsna
+year: 2k16
+intro: My area of interest include Artificial Intelligence and Web Develpoment.
+modal-id: 16
+designation: Application Developer at Nivritti
+---
+
+

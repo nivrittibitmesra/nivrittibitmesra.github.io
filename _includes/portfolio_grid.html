@@ -1,0 +1,74 @@
+
+<style type="text/css">
+    .flip-container {
+        margin-left: 50px;
+        margin-bottom:50px;
+       
+        display: inline-block;
+    }
+    .flip-container:hover .card {
+        transform: rotateY(180deg);
+    }
+    .card, .front, .back {
+        width: 300px;
+        height: 300px;
+        position:absolute;
+    }
+    .card {
+        transition: 0.5s;
+        transform-style: preserve-3d;
+        position: relative;
+    }
+    .front, .back {
+        backface-visibility: hidden;
+        position: absolute;
+    }
+    .front {
+        z-index: 2;
+        transform: rotateY(0deg);
+     
+    }
+    .back {
+        z-index: 1; /* back side, placed above front */
+        transform: rotateY(180deg);
+        background:lightgrey;
+        text-align:center;
+       
+    }
+.txt {
+   color:black;
+}
+</style>
+
+<!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Amazing Team</h2>
+                </div>
+            </div>
+            <div class="row">
+            {% for post in site.posts %}
+                <div class="col-md-4 portfolio-item ">
+                <div class=" flip-container">  
+                <div class="card">
+                   <div class="back img-circle ">
+                    <br /><br /><br /><br />
+              <strong>{{ post.designation }}</strong><br />
+                 {{ post.intro | truncatewords:15}}<br />
+                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link txt btn btn-primary" data-toggle="modal">Know more</i></a>
+                            </div>
+                       <div class="front"> 
+                        <img src="img/team/{{ post.img }}" class="img-circle" alt="" style="width:250px;height:300px" >
+                    </a>
+                    <center><div class="caption">
+                        <h4>{{ post.name }}</h4>
+                        <p class="text-muted">{{ post.year }}</p>
+                    </div></center>
+                </div></div>
+                </div></div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

@@ -1,0 +1,11 @@
+---
+layout: default
+img: 51.jpg
+name: Shiladitya Biswas
+year: 2k14
+intro: My areas of interests include soft computing, robotic system design and software-hardware Interfacing.
+modal-id: 5
+designation: Team Lead Automation at Nivritti
+---
+
+
