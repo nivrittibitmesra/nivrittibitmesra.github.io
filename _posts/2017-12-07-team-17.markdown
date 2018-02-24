@@ -1,8 +1,0 @@
----
-layout: default
-img: m.jpeg
-name: Mansi
-year: 2k16
-intro: My fields of interest include robotics and embedded systems .
-modal-id: 17
----
