@@ -5,4 +5,5 @@ name: Arvind
 year: 
 intro: I am pursuing Ph.D. in Signal processing.  My area of interest is speech and music signal processing and automation.  I completed my masters in instrumentation and control from BIT. Before that,  I was working for US based company Broadridge financial ltd. at Hyderabad.  I completed my engineering from PUNE university.
 modal-id: 6
+designation: Senior Advisor of Team
 ---
